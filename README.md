@@ -1,4 +1,4 @@
-# **spreadsheet application project**
+# **Spreadsheet Application Project**
 
 ## **Project Overview**
 
