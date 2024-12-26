@@ -5,7 +5,7 @@
 
 #### This Project Is A **Spreadsheet Application Project**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The Primary Goal Is Spreadsheet app: Organize, calculate, analyze, and visualize data efficiently.
+#### The Primary Goal Is Spreadsheet App: Learn Functional Programming By Building A Spreadsheet 
 
 
 ## **Course Details**
