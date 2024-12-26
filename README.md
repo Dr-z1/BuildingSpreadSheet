@@ -1,37 +1,50 @@
-# BuildingSpreadSheet
-Building A Spread-Sheet
+# **spreadsheet application project**
 
-This Website Was Built Using Free Code Camp Instructions: Learn Functional Programming By Building A Spread-Sheet
+## **Project Overview**
 
-Section: JavaScript Algorithms and Data Structures (Beta)
+#### This Project Is A **Spreadsheet Application Project**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn Functional Programming By Building A Spread-Sheet
+#### The Primary Goal Is Spreadsheet app: Organize, calculate, analyze, and visualize data efficiently.
 
-Deatils:
+## **Course Details**
 
-Functional Programming is a popular approach to software development. 
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Spreadsheet Application Project.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
 
-In Functional Programming, developers organize code into smaller functions, then combine those functions to build complex programs.
+## **Purpose**
 
-In this spreadsheet application project, you'll learn about parsing and evaluating mathematical expressions, implementing spreadsheet functions, handling cell references, and creating interactive web interfaces. 
+Functional Programming Is A Popular Approach To Software Development. In Functional Programming, Developers Organize Code Into Smaller Functions, Then Combine Those Functions To Build Complex Programs.  
 
-You'll learn how to dynamically update the page based on user input.
+In This Spreadsheet Application Project, You'll Learn About Parsing And Evaluating Mathematical Expressions, Implementing Spreadsheet Functions, Handling Cell References, And Creating Interactive Web Interfaces. 
 
-This project will cover concepts like the map(), find(), and includes() methods and the parseInt() function.
+You'll Learn How To Dynamically Update The Page Based On User Input.  
+
+This Project Will Cover Concepts Like The Map(), Find(), And Includes() Methods And The ParseInt() Function.  
+
+## **Acknowledgment**
+
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
 
-Link:
 
-https://www.freecodecamp.org/
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
 
 
