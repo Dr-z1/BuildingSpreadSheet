@@ -2,11 +2,14 @@
 
 ## **Project Overview**
 
+
 #### This Project Is A **Spreadsheet Application Project**, Developed As Part of The FreeCodeCamp Curriculum. 
 
 #### The Primary Goal Is Spreadsheet app: Organize, calculate, analyze, and visualize data efficiently.
 
+
 ## **Course Details**
+
 
 + **Course Section**: JavaScript Algorithms and Data Structures (Beta).
   
@@ -15,8 +18,10 @@
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
 + This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
++ 
 
 ## **Purpose**
+
 
 Functional Programming Is A Popular Approach To Software Development. In Functional Programming, Developers Organize Code Into Smaller Functions, Then Combine Those Functions To Build Complex Programs.  
 
@@ -28,6 +33,7 @@ This Project Will Cover Concepts Like The Map(), Find(), And Includes() Methods 
 
 ## **Acknowledgment**
 
+
 This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
 All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
@@ -35,6 +41,8 @@ All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**,
 I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
 
 A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
 
 I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
